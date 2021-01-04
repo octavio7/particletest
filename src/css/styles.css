@@ -1,7 +1,13 @@
-body {
-    background-color: burlywood;
-}
 
 h1{
     color:royalblue;
+}
+body{
+    background-color: black;
+}
+p {
+    color: seashell;
+}
+.particles-js {
+    max-height: 100-vh;
 }

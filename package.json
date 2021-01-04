@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/octavio7/particletest/issues"
   },
-  "homepage": "https://github.com/octavio7/particletest#readme"
+  "homepage": "https://github.com/octavio7/particletest#readme",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
 }
