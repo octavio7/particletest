@@ -11,27 +11,8 @@ p {
 }
 
 .particles-js-canvas-el {
-    z-index: 4;
-
-    height: 100%;
-    height: 100vh;
-
-    background: #674172;
+    position: absolute;
 }
-
-.canvas-txt{
-    font: 100 10vh/1 Roboto;
-
-    text-align: center;
-
-    color: #674172;
-}
-
-.inner-text{
-    padding: 0 2rem;
-    color: white;
-
-    text-transform: uppercase;
-
-    
+.bg-custom{
+    background-color: cadetblue;
 }
