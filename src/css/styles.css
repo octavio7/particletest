@@ -1,5 +1,7 @@
 h1 {
     color: royalblue;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom:1em;
 }
 
 html,
@@ -23,7 +25,7 @@ span {
 }
 
 .bg-custom {
-    background-color: #232f3e;
+    background-color: #232f3ee5;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     border-style: solid;
@@ -38,7 +40,7 @@ span {
 
 .footer {
     flex-shrink: 0;
-    background-color: #232f3e;
+    background-color: #232f3ee5;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     z-index: 1;
